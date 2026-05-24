@@ -30,7 +30,7 @@ export const botConfig = {
         type: 0, 
       },
     ],
-  },
+  }, 
 
   // =========================
   // COMMAND BEHAVIOR
